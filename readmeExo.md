@@ -23,7 +23,7 @@ Le stagiaire visite le site de l'organisme de formation
         Il abandonne sa recherche
         Et le programme s'arrete 
     si jamais il trouve la formation souhaitée
-        Alors il fait sa dmde d'inscrition
+        Alors il fait sa dmde d'inscription
         Et il recoit en retour l'accusé de réception de sa candidature
 
 Traitement de dmde d'inscription par l'organisme
